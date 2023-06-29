@@ -1,16 +1,27 @@
-### Hi there 👋
+NinjaRide = {
 
-<!--
-**NinjaRide/NinjaRide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    "Contact": {
+        "Discord": "ninjarides",
+        "Github":  "NinjaRide"
+    },
 
-Here are some ideas to get you started:
+    "Languages": {
+        "Python": "Main",
+        "Go": "Learning",
+    },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    "Projects": {
+        "Blaze" :  "Phone Verifier",
+        "CheckOut": "Nitro Redeemer",
+        "Autifity Threading": "Token Filler",
+        "Cracking": "Developing..."
+    },
+
+    "Personal": {
+        "Language": "Romanian"
+    }
+
+}
+
+for key, value in NinjaRide.items():
+    print(key, ":", value)
