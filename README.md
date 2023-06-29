@@ -1,4 +1,5 @@
-    NinjaRide = {
+```python
+NinjaRide = {
     
         "Contact": {
             "Discord": "ninjarides",
@@ -23,5 +24,5 @@
     
     }
     
-    for key, value in NinjaRide.items():
-        print(key, ":", value)
+for key, value in NinjaRide.items():
+    print(key, ":", value)```
