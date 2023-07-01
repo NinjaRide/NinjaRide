@@ -5,7 +5,7 @@
 NinjaRide = {
     
         "Contact": {
-            "Discord": "ninjarides",
+            "Discord": "ninjarided",
             "Github":  "NinjaRide"
         },
     
