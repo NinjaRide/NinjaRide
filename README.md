@@ -24,4 +24,5 @@ class Attributes:
         return self._life_info
 
     def get_coding(self):
-        return self._coding_info, self._specialities, self._text_editor```
+        return self._coding_info, self._specialities, self._text_editor
+```
