@@ -1,4 +1,4 @@
-```
+```python
 from typing import NamedTuple
 
 class ContactInfo(NamedTuple):
